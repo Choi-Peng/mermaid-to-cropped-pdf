@@ -14,9 +14,13 @@ flowchart TD
     C -->|Three| F[fa:fa-car Car]
 </pre>
 
-Example cropped output: [example-cropped.pdf](example-cropped.pdf)
+Example cropped output:
 
-Example un-cropped output: [example.pdf](example.pdf) (default A4 size)
+![example-cropped](example-cropped.png)
+
+Example un-cropped output (default A4 size):
+
+![example](example.png)
 
 ## Requirements
 
